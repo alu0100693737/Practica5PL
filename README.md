@@ -1,8 +1,6 @@
 # ETSII ULL Grado de Informatica Asignatura Procesadores de Lenguajes
 
-## Práctica 5:
-
-Analizador Sintáctico Recursivo Predictivo.
+## Práctica 5: Analizador Sintáctico Recursivo Predictivo.
 
 ## Objetivo:
 
