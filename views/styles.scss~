@@ -60,7 +60,7 @@ nav {
 
 p {
   font: 13px/1.4 $main-font;
-  background: darken(#0267AB, 0%);
+  background: darken(#03558B, 0%);
   
 }
 
