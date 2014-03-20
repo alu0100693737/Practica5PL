@@ -10,7 +10,7 @@ El objetivo de la práctica consiste en realizar un analizador sintáctico recur
 
 Enlaces
 --------------
-- [Repositorio]
+- [https://github.com/alu0100693737/Practica5PL]
 - [http://fast-island-2513.herokuapp.com]
 - [http://fast-island-2513.herokuapp.com/tests]
  
